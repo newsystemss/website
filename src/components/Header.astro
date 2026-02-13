@@ -1,0 +1,102 @@
+---
+const currentPath = Astro.url.pathname;
+
+const navLinks = [
+  { href: '/', label: 'Home' },
+  { href: '/newstadium', label: 'New Stadium' },
+  { href: '/newdemos', label: 'New Demos' },
+  { href: '/newbuilds', label: 'New Builds' },
+  { href: '/theotherstuff', label: 'The Other Stuff Podcast' },
+];
+
+function isActive(href: string, current: string): boolean {
+  if (href === '/') {
+    return current === '/' || current === '';
+  }
+  return current.startsWith(href);
+}
+---
+
+<header>
+  <nav>
+    <div class="nav-links">
+      {navLinks.map(link => (
+        <a
+          href={link.href}
+          class:list={[{ active: isActive(link.href, currentPath) }]}
+        >
+          {link.label}
+        </a>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<style>
+  header {
+    width: 100%;
+    max-width: var(--content-width);
+    margin: 0 0 0 15%;
+    padding: var(--header-top-padding) var(--spacing-md) var(--spacing-md);
+    font-size: var(--font-size-small);
+  }
+
+  nav {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+  }
+
+  .nav-links {
+    display: flex;
+    gap: clamp(0.25rem, 2vw, var(--spacing-lg));
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .nav-links a {
+    color: var(--text-muted);
+    text-decoration: none;
+  }
+
+  .nav-links a::after {
+    content: none;
+  }
+
+  .nav-links a:hover {
+    color: var(--link-hover);
+  }
+
+  .nav-links a.active {
+    color: var(--text);
+  }
+
+  /* Responsive - Tablet and below */
+  @media (max-width: 1300px) {
+    header {
+      margin-left: var(--responsive-margin);
+      max-width: min(650px, calc(100% - var(--responsive-margin) * 2));
+    }
+  }
+
+  @media (max-width: 930px) {
+    header {
+      max-width: none;
+      width: calc(100% - var(--responsive-margin) * 2);
+    }
+  }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    header {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    .nav-links {
+      flex-wrap: wrap;
+      gap: var(--spacing-md);
+    }
+  }
+</style>

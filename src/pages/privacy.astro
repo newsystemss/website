@@ -1,0 +1,120 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Privacy Policy">
+  <div class="legal">
+    <div class="top">
+      <header>
+        <h1>Privacy Policy</h1>
+        <div class="meta">Effective date: November 4, 2025</div>
+      </header>
+      <nav aria-label="On this page">
+        <ul>
+          <li><a href="#overview">1. Overview</a></li>
+          <li><a href="#collect">2. Information We Collect</a></li>
+          <li><a href="#third-parties">3. Third-Party Services</a></li>
+          <li><a href="#sharing">4. Data Sharing</a></li>
+          <li><a href="#cookies">5. Cookies</a></li>
+          <li><a href="#security">6. Security</a></li>
+          <li><a href="#international">7. International Use</a></li>
+          <li><a href="#changes">8. Changes</a></li>
+          <li><a href="#contact">9. Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <p>This policy explains how <strong>New Dashboard</strong> ("we", "our", "us") handles information.</p>
+
+    <h2 id="overview">1. Overview</h2>
+    <p>We do <strong>not</strong> collect or store personal or financial data. The app is free and web-only.</p>
+
+    <h2 id="collect">2. Information We Collect</h2>
+    <p>We may process limited technical data (e.g., IP address, device/browser details, and basic usage logs) to operate and secure the app, troubleshoot, and improve performance.</p>
+
+    <h2 id="third-parties">3. Use of Third-Party Services</h2>
+    <p>We use:</p>
+    <ul>
+      <li><strong>Google</strong> (e.g., analytics/performance tooling)</li>
+      <li><strong>Supabase</strong> (hosting/database platform)</li>
+    </ul>
+    <p>These vendors may temporarily process technical data to provide their services. We do not link this data to identified individuals.</p>
+
+    <h2 id="sharing">4. Data Sharing</h2>
+    <p>We do not sell, rent, or share data with third parties beyond the service providers named above.</p>
+
+    <h2 id="cookies">5. Cookies and Local Storage</h2>
+    <p>We may use cookies or local storage for session state and basic functionality. You can block cookies in your browser; some features may not work as intended.</p>
+
+    <h2 id="security">6. Security</h2>
+    <p>We use reasonable technical and organizational measures appropriate to the data we handle. No system is perfectly secure.</p>
+
+    <h2 id="international">7. International Use</h2>
+    <p>Services are operated from Canada. By using the app, you consent to processing in Canada under Canadian law, which may differ from your jurisdiction.</p>
+
+    <h2 id="changes">8. Changes to This Policy</h2>
+    <p>We may update this policy. The effective date will reflect the latest version.</p>
+
+    <h2 id="contact">9. Contact</h2>
+    <address>
+      <div><strong>New Computer Entertainment Inc.</strong></div>
+      <div>83 Walnut Ave, Toronto, ON M5V 2S1, Canada</div>
+      <div>Email: <a href="mailto:email@newsystems.ca">email@newsystems.ca</a></div>
+    </address>
+
+    <hr />
+    <p class="muted">Company: New Computer Entertainment Inc. — App: New Dashboard</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal {
+    line-height: 1.55;
+  }
+
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .meta {
+    margin: 8px 0 16px;
+    font-size: var(--font-size-small);
+    color: var(--text-muted);
+  }
+
+  .legal nav ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 6px;
+  }
+
+  .legal nav a {
+    text-decoration: none;
+  }
+
+  .legal nav a::after {
+    content: none;
+  }
+
+  .legal nav a:hover {
+    text-decoration: underline;
+  }
+
+  address {
+    font-style: normal;
+  }
+
+  .muted {
+    color: var(--text-muted);
+  }
+
+  h2 {
+    margin-top: var(--spacing-lg);
+  }
+</style>

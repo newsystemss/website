@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown';
+import { readContentFile } from '../lib/utils';
+
+const content = readContentFile('New Stadium.md');
+
+function parsePage(md: string) {
+  const sections: { title: string; html: string }[] = [];
+  const lines = md.split('\n');
+  let currentTitle = 'New Stadium';
+  let currentContent: string[] = [];
+  let isFirst = true;
+
+  for (const line of lines) {
+    if (line.startsWith('# ')) {
+      if (isFirst) {
+        sections.push({ title: currentTitle, html: renderMarkdown(currentContent.join('\n')) });
+        isFirst = false;
+      } else {
+        sections.push({ title: currentTitle, html: renderMarkdown(currentContent.join('\n')) });
+      }
+      currentTitle = line.slice(2).trim();
+      currentContent = [];
+    } else {
+      currentContent.push(line);
+    }
+  }
+
+  sections.push({ title: currentTitle, html: renderMarkdown(currentContent.join('\n')) });
+  return sections;
+}
+
+const sections = parsePage(content);
+---
+
+<BaseLayout title="New Stadium">
+  <div class="page">
+    {sections.map(section => (
+      <section>
+        <h1>{section.title}</h1>
+        <div set:html={section.html} />
+      </section>
+    ))}
+  </div>
+</BaseLayout>
+
+<style>
+  section {
+    margin-bottom: var(--spacing-lg);
+  }
+
+  section:last-child {
+    margin-bottom: 0;
+  }
+</style>

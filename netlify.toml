@@ -1,9 +1,6 @@
 [build]
-  command = "bundle exec jekyll build"
-  publish = "_site"
+  command = "npm run build"
+  publish = "dist"
 
 [build.environment]
-  RUBY_VERSION = "3.2.2"
-
-[context.production.environment]
-  RUBY_VERSION = "3.2.2"
+  NODE_VERSION = "20"

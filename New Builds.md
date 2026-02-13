@@ -1,0 +1,1 @@
+New Builds is a [multidisciplinary hackathon](https://x.com/newsystems_/status/1828455648377327976) that combines intensive project development with new team formation mechanics inspired by the [NBA Draft](https://x.com/newsystems_/status/1841933723345842494)

@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown';
+import { readContentFile } from '../lib/utils';
+
+const content = readContentFile('The Other Stuff.md');
+const html = renderMarkdown(content);
+---
+
+<BaseLayout title="The Other Stuff">
+  <div class="page">
+    <h1>The Other Stuff</h1>
+    <div set:html={html} />
+  </div>
+</BaseLayout>

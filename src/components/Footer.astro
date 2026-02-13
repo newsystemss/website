@@ -1,0 +1,79 @@
+---
+const links = [
+  { href: 'https://x.com/newsystems_', label: 'Twitter' },
+  { href: 'https://www.instagram.com/newsystems_/', label: 'Instagram' },
+  { href: 'https://lu.ma/newsystems', label: 'Luma' },
+  { href: 'mailto:email@newsystems.ca', label: 'Contact' },
+];
+---
+
+<footer>
+  <nav>
+    {links.map(link => (
+      <a
+        href={link.href}
+        target={link.href.startsWith('http') ? '_blank' : undefined}
+        rel={link.href.startsWith('http') ? 'noopener noreferrer' : undefined}
+      >
+        {link.label}
+      </a>
+    ))}
+  </nav>
+</footer>
+
+<style>
+  footer {
+    width: 100%;
+    max-width: var(--content-width);
+    margin: 0 0 0 15%;
+    padding: var(--spacing-md) var(--spacing-md) var(--header-top-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: var(--font-size-small);
+  }
+
+  nav {
+    display: flex;
+    gap: var(--spacing-lg);
+    align-items: center;
+  }
+
+  nav a {
+    color: var(--text-muted);
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: var(--link-hover);
+  }
+
+  /* Responsive - Tablet and below */
+  @media (max-width: 1300px) {
+    footer {
+      margin-left: var(--responsive-margin);
+      max-width: min(650px, calc(100% - var(--responsive-margin) * 2));
+    }
+  }
+
+  @media (max-width: 930px) {
+    footer {
+      max-width: none;
+      width: calc(100% - var(--responsive-margin) * 2);
+    }
+  }
+
+  /* Mobile */
+  @media (max-width: 600px) {
+    footer {
+      padding-left: 0;
+      padding-right: 0;
+    }
+
+    nav {
+      flex-wrap: wrap;
+      gap: var(--spacing-sm);
+    }
+
+  }
+</style>

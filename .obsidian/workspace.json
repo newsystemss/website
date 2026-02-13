@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Test.md",
+                "file": "The Other Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "The Other Stuff"
             }
           }
         ]
@@ -172,9 +172,13 @@
   },
   "active": "c32598731e67ac58",
   "lastOpenFiles": [
+    "New Stadium.md",
+    "New Demos.md",
+    "New Builds.md",
+    "LOGO-B&W-SOLID.png",
+    "README.md",
     "assets/newlogo.png",
     "assets/LOGO-B&W-SOLID.png",
-    "LOGO-B&W-SOLID.png",
     "newstadium/index.html",
     "newstadium",
     "newbuilds/index.html",
@@ -202,9 +206,7 @@
     "_site/assets/aesthetics-of-climbing/rock8.jpg",
     "_site/assets/aesthetics-of-climbing/rock7.jpg",
     "_site/assets/aesthetics-of-climbing/rock6.jpg",
-    "_site/assets/aesthetics-of-climbing/rock5.webp",
     "_site/Welcome.md",
-    "README.md",
     "LICENSE.md",
     "_site/LICENSE.md",
     "_site/README.md",
@@ -214,9 +216,6 @@
     "_posts/2025-06-16-climbing.md",
     "_posts/2025-05-23-infinite-gameplay-loops.md",
     "_posts/2025-05-18-conviction.md",
-    "_posts/2025-05-13-notes-on-climbing.md",
-    "_posts/2025-04-21-if-you-listen-closely.md",
-    "_posts/2025-04-12-hands.md",
-    "_posts/2025-04-09-consuming.md"
+    "_posts/2025-05-13-notes-on-climbing.md"
   ]
 }

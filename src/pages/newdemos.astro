@@ -1,0 +1,15 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown';
+import { readContentFile } from '../lib/utils';
+
+const content = readContentFile('New Demos.md');
+const html = renderMarkdown(content);
+---
+
+<BaseLayout title="New Demos">
+  <div class="page">
+    <h1>New Demos</h1>
+    <div set:html={html} />
+  </div>
+</BaseLayout>

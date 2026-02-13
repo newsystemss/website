@@ -1,0 +1,26 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout>
+  <div class="page">
+    <img src="/assets/newlogo.png" alt="New Logo" class="main-image" />
+  </div>
+</BaseLayout>
+
+<style>
+  .main-image {
+    max-width: 40%;
+    width: 80%;
+    height: auto;
+    margin: 2rem 0;
+    display: block;
+  }
+
+  @media (max-width: 950px) {
+    .main-image {
+      max-width: 95%;
+      margin: 1.5rem 0;
+    }
+  }
+</style>

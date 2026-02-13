@@ -1,0 +1,123 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="EULA">
+  <div class="legal">
+    <div class="top">
+      <header>
+        <h1>End-User License Agreement (EULA)</h1>
+        <div class="meta">Effective date: November 4, 2025</div>
+      </header>
+      <nav aria-label="On this page">
+        <ul>
+          <li><a href="#acceptance">1. Acceptance</a></li>
+          <li><a href="#license">2. License</a></li>
+          <li><a href="#ownership">3. Ownership</a></li>
+          <li><a href="#restrictions">4. Restrictions</a></li>
+          <li><a href="#updates">5. Updates</a></li>
+          <li><a href="#warranty">6. Warranty Disclaimer</a></li>
+          <li><a href="#liability">7. Limitation of Liability</a></li>
+          <li><a href="#termination">8. Termination</a></li>
+          <li><a href="#law">9. Governing Law</a></li>
+          <li><a href="#contact">10. Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <p>This End-User License Agreement ("Agreement") governs your use of <strong>New Dashboard</strong> (the "App"). By using the App, you agree to this Agreement.</p>
+
+    <h2 id="acceptance">1. Acceptance</h2>
+    <p>If you do not agree, do not use the App.</p>
+
+    <h2 id="license">2. License</h2>
+    <p>We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal or internal business use, subject to this Agreement.</p>
+
+    <h2 id="ownership">3. Ownership</h2>
+    <p>The App and its content are owned by <strong>New Computer Entertainment Inc.</strong> All rights reserved.</p>
+
+    <h2 id="restrictions">4. Restrictions</h2>
+    <ul>
+      <li>No reverse engineering, decompiling, or attempts to access source code.</li>
+      <li>No unlawful use or use that disrupts the App or its servers.</li>
+      <li>Do not remove or alter proprietary notices.</li>
+    </ul>
+
+    <h2 id="updates">5. Updates and Changes</h2>
+    <p>We may update, change, or discontinue the App at any time.</p>
+
+    <h2 id="warranty">6. Disclaimer of Warranties</h2>
+    <p>The App is provided "as is" and "as available." We disclaim all warranties, express or implied, including merchantability, fitness for a particular purpose, and non-infringement.</p>
+
+    <h2 id="liability">7. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by law, we are not liable for indirect, incidental, consequential, special, or punitive damages, or lost profits, arising from or related to your use of the App.</p>
+
+    <h2 id="termination">8. Termination</h2>
+    <p>We may suspend or terminate access if you breach this Agreement or at our discretion. Upon termination, your right to use the App ends immediately.</p>
+
+    <h2 id="law">9. Governing Law</h2>
+    <p>This Agreement is governed by the laws of Ontario and the federal laws of Canada applicable therein.</p>
+
+    <h2 id="contact">10. Contact</h2>
+    <address>
+      <div><strong>New Computer Entertainment Inc.</strong></div>
+      <div>83 Walnut Ave, Toronto, ON M5V 2S1, Canada</div>
+      <div>Email: <a href="mailto:email@newsystems.ca">email@newsystems.ca</a></div>
+    </address>
+
+    <hr />
+    <p class="muted">Company: New Computer Entertainment Inc. — App: New Dashboard</p>
+  </div>
+</BaseLayout>
+
+<style>
+  .legal {
+    line-height: 1.55;
+  }
+
+  .top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-bottom: var(--spacing-lg);
+  }
+
+  .meta {
+    margin: 8px 0 16px;
+    font-size: var(--font-size-small);
+    color: var(--text-muted);
+  }
+
+  .legal nav ul {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: 6px;
+  }
+
+  .legal nav a {
+    text-decoration: none;
+  }
+
+  .legal nav a::after {
+    content: none;
+  }
+
+  .legal nav a:hover {
+    text-decoration: underline;
+  }
+
+  address {
+    font-style: normal;
+  }
+
+  .muted {
+    color: var(--text-muted);
+  }
+
+  h2 {
+    margin-top: var(--spacing-lg);
+  }
+</style>
