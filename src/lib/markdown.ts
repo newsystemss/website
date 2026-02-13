@@ -53,7 +53,7 @@ export function renderMarkdown(md: string): string {
 
   function flushParagraph() {
     if (paragraph.length > 0) {
-      const text = paragraph.join(' ').trim();
+      const text = paragraph.join('<br>').trim();
       if (text) {
         html.push(`<p>${processInline(text)}</p>`);
       }
