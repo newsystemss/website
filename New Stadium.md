@@ -6,11 +6,9 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Wednesday, February 11: [Open Studio](https://luma.com/Openstudio2)
-Thursday, February 12: [Open House](https://luma.com/stadium152)
-Thursday, February 12: [Don't Quit Your Day Job](https://luma.com/z00dra7q)
-Friday, February 13: [Open House](https://luma.com/stadium153), [Product Engineering Agent Hackathon](https://luma.com/dr6ro8j5)
-
+Wednesday, February 18: [Open House ](https://luma.com/stadium154)
+Thursday, February 19: [Open Studio](https://luma.com/openstudio3)
+Friday, February 20: [Open House](https://luma.com/stadium155), [Curated Visuals ](https://luma.com/afv16vww)
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
 # Invitation
