@@ -6,9 +6,10 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Wednesday, February 18: [Open House ](https://luma.com/stadium154)
-Thursday, February 19: [Open Studio](https://luma.com/openstudio3)
-Friday, February 20: [Open House](https://luma.com/stadium155), [Curated Visuals ](https://luma.com/afv16vww)
+Tuesday, February 24: [Vizcom Workshop](https://luma.com/y5djnp8e) 
+Wednesday, February 25: [Open House ](https://luma.com/stadium156), [Airess x Lovable](https://luma.com/byiomeot)
+Thursday, February 26: [Open Studio](https://luma.com/openstudio4), [MakersLounge](https://luma.com/ysqo5yo4)
+Friday, February 27: [CTRL + SHIFT](https://luma.com/5j88d0vo)
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
 # Invitation
