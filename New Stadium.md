@@ -6,10 +6,10 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Wednesday, February 11: [Open Studio](https://luma.com/Openstudio2)
-Thursday, February 12: [Open House](https://luma.com/stadium152)
-Thursday, February 12: [Don't Quit Your Day Job](https://luma.com/z00dra7q)
-Friday, February 13: [Open House](https://luma.com/stadium153), [Product Engineering Agent Hackathon](https://luma.com/dr6ro8j5)
+Wednesday, March 4: [Open House ](https://luma.com/stadium157)
+Thursday, March 5: [Open House](https://luma.com/stadium158)
+Friday, March 6: [Sounds of Diaspora](https://luma.com/ppfjug3s)
+Saturday, March 7: [Film Fundraiser: Do The Right Thing](https://luma.com/o72r1bmc)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
