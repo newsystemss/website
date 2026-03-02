@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Stadium.md",
+                "file": "The Other Stuff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Stadium"
+              "title": "The Other Stuff"
             }
           }
         ],
@@ -187,11 +187,11 @@
   },
   "active": "e85fd8cc909d8d34",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "New Stadium.md",
-    "The Other Stuff.md",
     "New Demos.md",
     "New Builds.md",
+    "conflict-files-obsidian-git.md",
+    "The Other Stuff.md",
     "LOGO-B&W-SOLID.png",
     "README.md",
     "assets/newlogo.png",
