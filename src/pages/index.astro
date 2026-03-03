@@ -1,19 +1,14 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { renderMarkdown } from '../lib/markdown';
+import { readContentFile } from '../lib/utils';
+
+const content = readContentFile('about.md');
+const html = renderMarkdown(content);
 ---
 
 <BaseLayout>
   <div class="page">
-    <img src="/assets/newlogo.png" alt="New Logo" class="main-image" />
+    <div set:html={html} />
   </div>
 </BaseLayout>
-
-<style>
-  .main-image {
-    height: 2.4rem;
-    width: auto;
-    max-width: none;
-    margin: 0;
-    display: block;
-  }
-</style>
