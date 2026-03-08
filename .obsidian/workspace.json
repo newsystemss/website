@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Other Stuff.md",
+                "file": "New Stadium.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Other Stuff"
+              "title": "New Stadium"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "about",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -187,12 +187,16 @@
   },
   "active": "e85fd8cc909d8d34",
   "lastOpenFiles": [
-    "New Stadium.md",
     "New Demos.md",
+    "about.md",
     "New Builds.md",
-    "conflict-files-obsidian-git.md",
+    "public/assets/newlogo.png",
+    "assets/new-demos/new demos 2 (3).jpg",
+    "assets/new-demos/new demos 2 (1).jpeg",
     "The Other Stuff.md",
+    "New Stadium.md",
     "LOGO-B&W-SOLID.png",
+    "conflict-files-obsidian-git.md",
     "README.md",
     "assets/newlogo.png",
     "assets/LOGO-B&W-SOLID.png",
@@ -220,9 +224,6 @@
     "_site/assets/new-builds/11725.jpeg",
     "Welcome.md",
     "_site/assets/aesthetics-of-climbing/rock9.jpg",
-    "_site/assets/aesthetics-of-climbing/rock8.jpg",
-    "_site/assets/aesthetics-of-climbing/rock7.jpg",
-    "_site/assets/aesthetics-of-climbing/rock6.jpg",
     "_site/Welcome.md",
     "LICENSE.md",
     "_site/LICENSE.md",
@@ -230,8 +231,6 @@
     "_posts/2025-07-11-25.md",
     "_posts/2025-06-16-living-well.md",
     "_posts/2025-06-16-ideas.md",
-    "_posts/2025-06-16-climbing.md",
-    "_posts/2025-05-23-infinite-gameplay-loops.md",
-    "_posts/2025-05-18-conviction.md"
+    "_posts/2025-06-16-climbing.md"
   ]
 }

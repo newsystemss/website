@@ -6,10 +6,10 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Wednesday, March 4: [Open House ](https://luma.com/stadium157)
-Thursday, March 5: [Open House](https://luma.com/stadium158)
-Friday, March 6: [Sounds of Diaspora](https://luma.com/ppfjug3s)
-Saturday, March 7: [Film Fundraiser: Do The Right Thing](https://luma.com/o72r1bmc)
+Monday, March 9: [Basics of Editing](https://luma.com/8k5a0qmr)
+Wednesday, March 11: [Open House](https://luma.com/stadium159), [Rough Cut](https://luma.com/7am22vrt) 
+Thursday, March 12: [Open House](https://luma.com/stadium160), [Don't Quit Your Day Job](https://luma.com/m2f6p1q7)
+Friday, March 13: [Open House](https://luma.com/stadium161)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
