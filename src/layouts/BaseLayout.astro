@@ -37,6 +37,16 @@ const pageTitle = title || 'New';
     <link rel="alternate" type="application/rss+xml" title="New" href="/feed.xml" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <ViewTransitions />
+
+    <!-- Google Analytics -->
+    <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-ZXETKB4WCV"></script>
+    <script is:inline>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-ZXETKB4WCV');
+    </script>
+
     <script is:inline>
       // Ensure all external links open in new tab
       function setupExternalLinks() {
