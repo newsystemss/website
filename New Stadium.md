@@ -11,7 +11,7 @@ Tuesday, March 24: [Open House](https://luma.com/stadium164), [Physical Computin
 Wednesday, March 25: [All Roads Lead to Philosophy](https://luma.com/6ftf0ejt)
 Thursday, March 26: [Open House](https://luma.com/stadium165), [Art Club ](https://luma.com/89ntw3ct)
 Saturday, March 28: [Stupid Ideas Hackathon](https://wygo.world/stupidto26)
-Sunday, March 29: P[ortrait Photography Course ](https://luma.com/mjh5qcbb)
+Sunday, March 29: [Portrait Photography Course](https://luma.com/mjh5qcbb)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
