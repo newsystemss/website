@@ -6,12 +6,12 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Monday, March 16: [Iftar Dinner](https://www.eventbrite.ca/e/iftar-dinner-with-love-tickets-1984651717713?aff=oddtdtcreator)
-Tuesday, March 17: [Toronto LLM Group Meetup](https://luma.com/v9q5j2g5)
-Wednesday, March 18: [Open House](https://luma.com/stadium162), [Felt Needling Workshop](https://www.universe.com/events/felt-needling-workshop-tickets-P3JM5D)
-Thursday, March 19: [Open House](https://luma.com/stadium163), [Falcon GX: Open Studio ](https://luma.com/5l3z4fl8)
-Friday, March 20: [Wiki Speedrun Tournament](https://luma.com/wikispeedruntoronto) 
-Saturday, March 21: [Portrait Photography Course](https://luma.com/mjh5qcbb), [New Line](https://luma.com/NewLine26)
+
+Tuesday, March 24: [Open House](https://luma.com/stadium164), [Physical Computing Showcase](https://luma.com/jk03evyx)
+Wednesday, March 25: [All Roads Lead to Philosophy](https://luma.com/6ftf0ejt)
+Thursday, March 26: [Open House](https://luma.com/stadium165), [Art Club ](https://luma.com/89ntw3ct)
+Saturday, March 28: [Stupid Ideas Hackathon](https://wygo.world/stupidto26)
+Sunday, March 29: P[ortrait Photography Course ](https://luma.com/mjh5qcbb)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
