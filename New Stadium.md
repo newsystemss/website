@@ -7,10 +7,11 @@ See our opening hours, events, and programming below.
 # Events
 
 
-Tuesday, March 31: [Makerslounge Meetup](https://luma.com/makerslounge9)
-Wednesday, April 1: [Open House](https://luma.com/stadium166),[Figma Makeathon](https://luma.com/bw2uojj5)
-Thursday, April 2: [Open House](https://luma.com/stadium167), [On Worldbuilding](https://luma.com/73a0drk7)
-
+Tuesday, April 7 : [Portrait Photography Course](https://luma.com/mjh5qcbb)
+Wednesday, April 8: [Open House](https://luma.com/stadium168),[Basics of Editing](https://luma.com/s1w2u6az)
+Thursday, April 9: [Open House](https://luma.com/stadium169), [Erhua Playground](https://www.eventbrite.com/e/erhua-playground-x-wish-u-were-here-chinese-knots-by-tammy-dang-tickets-1986506298815)
+Friday, April 10: [LAMBCHOP Screening](https://luma.com/pwaqngof)
+Saturday, April 11: [Portrait Photography Course](https://luma.com/mjh5qcbb)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
