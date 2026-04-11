@@ -1,10 +1,4 @@
-/* Font */
-@font-face {
-  font-family: 'Apfel Grotezk';
-  src: url('/fonts/ApfelGrotezk-Regular.otf') format('opentype');
-  font-weight: 400;
-  font-display: swap;
-}
+/* Font (Apfel Grotezk kept as local fallback, Satoshi loaded via CDN in BaseLayout) */
 
 /* CSS Reset */
 *, *::before, *::after {
@@ -28,14 +22,14 @@
   --heading-color: #1a1a1a;
 
   /* Typography */
-  --font-sans: 'Apfel Grotezk', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-sans: 'Satoshi Variable', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-  --font-size-base: 16px;
-  --font-size-small: 14px;
-  --font-size-character: 12px;
+  --font-size-base: 14px;
+  --font-size-small: 13px;
+  --font-size-character: 11px;
 
   /* Spacing */
-  --content-width: 850px;
+  --content-width: 560px;
   --spacing-xs: 0.25rem;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
@@ -43,9 +37,6 @@
   --spacing-xl: 4rem;
   --header-top-padding: 6rem;
   --main-top-padding: 4rem;
-
-  /* Responsive layout */
-  --responsive-margin: 15%;
 
   /* Transitions */
   --transition-fast: 150ms ease;
@@ -95,12 +86,15 @@ html {
 body {
   font-family: var(--font-sans);
   font-size: var(--font-size-base);
+  font-weight: 450;
   line-height: 1.5;
   color: var(--text);
   background-color: var(--bg);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 /* Main content area */
@@ -108,8 +102,8 @@ main {
   flex: 1;
   width: 100%;
   max-width: var(--content-width);
-  margin: 0 0 0 15%;
-  padding: var(--main-top-padding) var(--spacing-md) var(--spacing-xl);
+  margin: 0;
+  padding: 3rem 1.5rem 4rem;
 }
 
 /* Typography */
@@ -155,11 +149,11 @@ a:hover {
 /* Link arrow */
 a::after {
   content: '\2197';
-  font-size: 0.85em;
+  font-size: 0.75em;
   font-weight: 500;
   text-decoration: none;
   display: inline-block;
-  margin-left: 0.2em;
+  margin-left: 0.15em;
 }
 
 /* Lists */
@@ -238,21 +232,15 @@ hr {
 
 /* Responsive - Tablet and below */
 @media (max-width: 1300px) {
-  :root {
-    --responsive-margin: clamp(5%, 2.5% + 4vw, 15%);
-  }
-
   main {
-    margin-left: var(--responsive-margin);
-    max-width: min(650px, calc(100% - var(--responsive-margin) * 2));
+    max-width: min(var(--content-width), calc(100% - 3rem));
   }
 }
 
 /* Smaller screens */
 @media (max-width: 930px) {
   main {
-    max-width: none;
-    width: calc(100% - var(--responsive-margin) * 2);
+    max-width: min(var(--content-width), calc(100% - 2rem));
   }
 }
 
@@ -264,6 +252,8 @@ hr {
   }
 
   main {
-    padding: var(--main-top-padding) 0 var(--spacing-md);
+    padding: 2rem 1rem 3rem;
+    max-width: none;
+    width: 100%;
   }
 }
