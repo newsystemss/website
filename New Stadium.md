@@ -25,4 +25,4 @@ If you have an event or project idea that we can help bring to life, [please sub
 
 We want to learn how we can help.
 
-For all other questions and/or inquiries, contact stadium@newsystems.ca
+For all other questions and/or inquiries, contact [stadium@newsystems.ca](mailto:stadium@newsystems.ca)
