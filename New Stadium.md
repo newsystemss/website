@@ -1,6 +1,6 @@
 New Stadium is our physical space located at 83 Walnut Avenue, Toronto.
 
-Designed to improve how people learn and make new things. It focuses on two key processes: how quickly individuals or groups can gain knowledge, and how effectively they can turn that knowledge into real-world outcomes.
+New Stadium is a collaborative third space in which we invite creatives, technologists, and academics to host and conduct their own events and programming.
 
 See our opening hours, events, and programming below.
 
@@ -15,8 +15,14 @@ Saturday, April 18: [Not a Knitting Club ](https://luma.com/zd250t1v)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
-# Invitation
+# Call for Briefs
 
-If you need access to space, resources, or people to accelerate your work, consider coming by or reaching us at [stadium@newsystems.ca](mailto:stadium@newsystems.ca)
+We want to use New Stadium as a space to generate outsized impact. We are always experimenting and learning. We are extremely grateful for our community.
+
+What do you want to learn right now? What do you want to see more of? What environment do you want to immerse yourself in?
+
+If you have an event or project idea that we can help bring to life, please let us know by submitting a form [here](brief.newsystems.ca).
 
 We want to learn how we can help.
+
+For all other questions and/or inquiries, contact stadium@newsystems.ca
