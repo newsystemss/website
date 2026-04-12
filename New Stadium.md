@@ -21,7 +21,7 @@ We want to use New Stadium as a space to generate outsized impact. We are always
 
 What do you want to learn right now? What do you want to see more of? What environment do you want to immerse yourself in?
 
-If you have an event or project idea that we can help bring to life, please let us know by submitting a form [here](brief.newsystems.ca).
+If you have an event or project idea that we can help bring to life, [please submit your idea here](https://brief.newsystems.ca)
 
 We want to learn how we can help.
 
