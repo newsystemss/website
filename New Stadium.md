@@ -6,12 +6,12 @@ See our opening hours, events, and programming below.
 
 # Events
 
-
-Tuesday, April 7 : [Portrait Photography Course](https://luma.com/mjh5qcbb)
-Wednesday, April 8: [Open House](https://luma.com/stadium168),[Basics of Editing](https://luma.com/s1w2u6az)
-Thursday, April 9: [Open House](https://luma.com/stadium169), [Erhua Playground](https://www.eventbrite.com/e/erhua-playground-x-wish-u-were-here-chinese-knots-by-tammy-dang-tickets-1986506298815)
-Friday, April 10: [LAMBCHOP Screening](https://luma.com/pwaqngof)
-Saturday, April 11: [Portrait Photography Course](https://luma.com/mjh5qcbb)
+Monday, April 13: [Show & Tell: Creative Coding ](https://luma.com/5d24htgi)
+Tuesday, April 14: [Rough Cut](https://luma.com/g7d12is3), [Toronto Theory #2.5 You are Here](https://luma.com/xc2vb0sw)
+Wednesday, April 15: [Open House](https://luma.com/stadium170), [Thinking with Nodes](https://luma.com/87da5e2w)
+Thursday, April 16: [Knightcap Chess](https://luma.com/lfulx4mp)
+Friday, April 17: [Working Together](https://luma.com/ghwn52av)
+Saturday, April 18: [Not a Knitting Club ](https://luma.com/zd250t1v)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
