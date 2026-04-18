@@ -33,18 +33,6 @@ const links = [
     font-size: var(--font-size-base);
   }
 
-  @media (max-width: 1300px) {
-    footer {
-      max-width: min(var(--content-width), calc(100% - 3rem));
-    }
-  }
-
-  @media (max-width: 930px) {
-    footer {
-      max-width: min(var(--content-width), calc(100% - 2rem));
-    }
-  }
-
   nav {
     display: flex;
     gap: var(--spacing-lg);
@@ -63,7 +51,6 @@ const links = [
   /* Mobile */
   @media (max-width: 600px) {
     footer {
-      max-width: none;
       padding: 0.75rem 1rem;
     }
 

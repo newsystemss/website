@@ -29,7 +29,7 @@
   --font-size-character: 11px;
 
   /* Spacing */
-  --content-width: 560px;
+  --content-width: 680px;
   --spacing-xs: 0.25rem;
   --spacing-sm: 0.5rem;
   --spacing-md: 1rem;
@@ -230,20 +230,6 @@ hr {
   animation-timing-function: ease;
 }
 
-/* Responsive - Tablet and below */
-@media (max-width: 1300px) {
-  main {
-    max-width: min(var(--content-width), calc(100% - 3rem));
-  }
-}
-
-/* Smaller screens */
-@media (max-width: 930px) {
-  main {
-    max-width: min(var(--content-width), calc(100% - 2rem));
-  }
-}
-
 /* Mobile */
 @media (max-width: 600px) {
   :root {
@@ -253,7 +239,5 @@ hr {
 
   main {
     padding: 1.5rem 1rem 1.5rem;
-    max-width: none;
-    width: 100%;
   }
 }
