@@ -6,12 +6,13 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Monday, April 13: [Show & Tell: Creative Coding ](https://luma.com/5d24htgi)
-Tuesday, April 14: [Rough Cut](https://luma.com/g7d12is3), [Toronto Theory #2.5 You are Here](https://luma.com/xc2vb0sw)
-Wednesday, April 15: [Open House](https://luma.com/stadium170), [Thinking with Nodes](https://luma.com/87da5e2w)
-Thursday, April 16: [Knightcap Chess](https://luma.com/lfulx4mp)
-Friday, April 17: [Working Together](https://luma.com/ghwn52av)
-Saturday, April 18: [Not a Knitting Club ](https://luma.com/zd250t1v)
+Monday, April 20: [GRADED. ](https://luma.com/kqe198dc))
+Tuesday, April 21: [Don't Quit Your Day Job #7](https://luma.com/r13uk2uz)
+Wednesday, April 22: [Open House](https://luma.com/stadium171), [Builders Showcase: OpenClaw & Agents](https://luma.com/j0mtpyqx)
+Thursday, April 23: [Open House](https://luma.com/stadium172)
+Friday, April 24: [SKIZA 001](https://luma.com/odwux94x)
+Saturday, April 25: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1)
+Sunday, April 26: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1), [Hand sewing Workshop ](https://luma.com/l3aoo37g)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
