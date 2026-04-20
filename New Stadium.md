@@ -6,7 +6,7 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Monday, April 20: [GRADED. ](https://luma.com/kqe198dc))
+Monday, April 20: [GRADED. ](https://luma.com/kqe198dc)
 Tuesday, April 21: [Don't Quit Your Day Job #7](https://luma.com/r13uk2uz)
 Wednesday, April 22: [Open House](https://luma.com/stadium171), [Builders Showcase: OpenClaw & Agents](https://luma.com/j0mtpyqx)
 Thursday, April 23: [Open House](https://luma.com/stadium172)
