@@ -12,7 +12,7 @@ Wednesday, April 22: [Open House](https://luma.com/stadium171), [Builders Showca
 Thursday, April 23: [Open House](https://luma.com/stadium172)
 Friday, April 24: [SKIZA 001](https://luma.com/odwux94x)
 Saturday, April 25: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1)
-Sunday, April 26: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1), [Hand sewing Workshop ](https://luma.com/l3aoo37g)
+Sunday, April 26: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1), [Handsewing Workshop ](https://luma.com/l3aoo37g)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
