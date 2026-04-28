@@ -6,13 +6,11 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Monday, April 20: [GRADED. ](https://luma.com/kqe198dc)
-Tuesday, April 21: [Don't Quit Your Day Job #7](https://luma.com/r13uk2uz)
-Wednesday, April 22: [Open House](https://luma.com/stadium171), [Builders Showcase: OpenClaw & Agents](https://luma.com/j0mtpyqx)
-Thursday, April 23: [Open House](https://luma.com/stadium172)
-Friday, April 24: [SKIZA 001](https://luma.com/odwux94x)
-Saturday, April 25: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1)
-Sunday, April 26: [Memento Viere](https://www.instagram.com/p/DXJ_QT1EUX6/?img_index=1), [Handsewing Workshop ](https://luma.com/l3aoo37g)
+Tuesday, April 28: [I Trust the Internet More Than I Trust Myself](https://luma.com/ngiixizs)
+Wednesday April 29: [Darius Ou: Physical and Digital Technologies in Graphic Design](https://luma.com/dariusou)
+Thursday April 30: [Open House](https://luma.com/stadium173), [Disqo Meetup](https://luma.com/8cfb833s)
+Friday May 1: [Open House](https://luma.com/stadium174), [Dialed Tournament ](https://luma.com/k10z5op5)
+Sunday May 3: [Flaws in Flawless ](https://luma.com/afnny4nk)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
