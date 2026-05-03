@@ -6,11 +6,11 @@ See our opening hours, events, and programming below.
 
 # Events
 
-Tuesday, April 28: [I Trust the Internet More Than I Trust Myself](https://luma.com/ngiixizs)
-Wednesday April 29: [Darius Ou: Physical and Digital Technologies in Graphic Design](https://luma.com/dariusou)
-Thursday April 30: [Open House](https://luma.com/stadium173), [Disqo Meetup](https://luma.com/8cfb833s)
-Friday May 1: [Open House](https://luma.com/stadium174), [Dialed Tournament ](https://luma.com/k10z5op5)
-Sunday May 3: [Flaws in Flawless ](https://luma.com/afnny4nk)
+
+Wednesday May 6: [Artifacts ](https://luma.com/bnu9x2i8)
+Thursday May 7: [Open House](https://luma.com/stadium175)
+Friday May 8: [Open House](https://luma.com/stadium176)
+Saturday May 9: [Goodbye to the people I used to be](https://luma.com/tojditaq)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
