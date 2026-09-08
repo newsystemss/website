@@ -6,14 +6,16 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Wednesday September 2: [Open House](https://luma.com/stadium203), [Teen Builders Club ](https://luma.com/6to8rqyk)
+Wednesday September 9: [Open House](https://luma.com/stadium204)
+Thursday September 10: [Write The Rules: An AI Policy Workshop](https://luma.com/s36du42j)
+Friday September 11: [Open House ](https://luma.com/stadium205)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
 # Upcoming
 
-[Blogging for the soul](https://luma.com/hmwskaey)
-*​Blogging for the Soul is a 3 class (6-9pm on Aug 31, Sept 4 & 8) course for computer hobbyist's to learn a simple yet elegant technique for blogging with templates using 11ty & Netlify.*
+September 17: [Blogging for the soul](https://luma.com/hmwskaey)
+*​Blogging for the Soul is a 3 class (6-9pm on Sept 17, Sept 22 & 26) course for computer hobbyist's to learn a simple yet elegant technique for blogging with templates using 11ty & Netlify.*
 
 # Call for Briefs
 
