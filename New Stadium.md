@@ -17,6 +17,9 @@ To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsy
 September 17: [Blogging for the soul](https://luma.com/hmwskaey)
 *​Blogging for the Soul is a 3 class (6-9pm on Sept 17, Sept 22 & 26) course for computer hobbyist's to learn a simple yet elegant technique for blogging with templates using 11ty & Netlify.*
 
+September 19: [Zephyr ](https://luma.com/new-v9sw)
+*Zephyr is a live performance centralized around the use of 16mm film loops and sequential musical patterns in an attempt to expand cinema's potential to influence audience expectations. Drawing upon the historical connection between image and sound, Zephyr reflects on the emotionally charged relationships created when both mediums are combined.*
+
 # Call for Briefs
 
 We want to use New Stadium as a space to generate outsized impact. We are always experimenting and learning. We are extremely grateful for our community.
