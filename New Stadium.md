@@ -6,9 +6,10 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Wednesday September 9: [Open House](https://luma.com/stadium204)
-Thursday September 10: [Write The Rules: An AI Policy Workshop](https://luma.com/s36du42j)
-Friday September 11: [Open House ](https://luma.com/stadium205)
+Tuesday September 15: [Open House](https://luma.com/stadium206), [Impressions ](https://luma.com/ig2clsjr)
+Thursday September 17: [Open House](https://luma.com/stadium207), [Blogging for the soul ](https://luma.com/hmwskaey)
+Saturday September 19: [Zephyr ](https://luma.com/new-v9sw)
+
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
