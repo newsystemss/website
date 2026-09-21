@@ -6,10 +6,8 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Tuesday September 15: [Open House](https://luma.com/stadium206), [Impressions ](https://luma.com/ig2clsjr)
-Thursday September 17: [Open House](https://luma.com/stadium207), [Blogging for the soul ](https://luma.com/hmwskaey)
-Saturday September 19: [Zephyr ](https://luma.com/new-v9sw)
-
+Tuesday September 22: [Blogging for the soul ](https://luma.com/hmwskaey)
+Wednesday September 23: [Open House](https://luma.com/stadium208)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
@@ -17,9 +15,6 @@ To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsy
 
 September 17: [Blogging for the soul](https://luma.com/hmwskaey)
 *​Blogging for the Soul is a 3 class (6-9pm on Sept 17, Sept 22 & 26) course for computer hobbyist's to learn a simple yet elegant technique for blogging with templates using 11ty & Netlify.*
-
-September 19: [Zephyr ](https://luma.com/new-v9sw)
-*Zephyr is a live performance centralized around the use of 16mm film loops and sequential musical patterns in an attempt to expand cinema's potential to influence audience expectations. Drawing upon the historical connection between image and sound, Zephyr reflects on the emotionally charged relationships created when both mediums are combined.*
 
 # Call for Briefs
 
