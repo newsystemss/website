@@ -6,15 +6,15 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Tuesday September 22: [Blogging for the soul ](https://luma.com/hmwskaey)
-Wednesday September 23: [Open House](https://luma.com/stadium208)
+Monday October 5: [Accidents on Purpose: PEOPLE](https://luma.com/j7spnz6v)
+Wednesday October 7: [Open House](https://luma.com/stadium211), [PROGRAM: JEV](https://luma.com/2rl4eoeb)
+Thursday October 8: [Open House](https://luma.com/stadium212), [Super Smash Bros Ultimate Tournament](https://luma.com/ssbu)
+Saturday October 10: [The Weight of Dreams ](https://luma.com/14wut8a9)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
 # Upcoming
 
-September 17: [Blogging for the soul](https://luma.com/hmwskaey)
-*​Blogging for the Soul is a 3 class (6-9pm on Sept 17, Sept 22 & 26) course for computer hobbyist's to learn a simple yet elegant technique for blogging with templates using 11ty & Netlify.*
 
 # Call for Briefs
 
