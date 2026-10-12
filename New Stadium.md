@@ -6,10 +6,10 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Monday October 5: [Accidents on Purpose: PEOPLE](https://luma.com/j7spnz6v)
-Wednesday October 7: [Open House](https://luma.com/stadium211), [PROGRAM: JEV](https://luma.com/2rl4eoeb)
-Thursday October 8: [Open House](https://luma.com/stadium212), [Super Smash Bros Ultimate Tournament](https://luma.com/ssbu)
-Saturday October 10: [The Weight of Dreams ](https://luma.com/14wut8a9)
+Tuesday October 13: [Accidents on Purpose: RULES](https://luma.com/exus1csc)
+Wednesday October 14: [Open House](https://luma.com/stadium213), [ARTIFACTS 02](https://luma.com/b90pgd5l)
+Thursday October 15: [Open House](https://luma.com/stadium214)
+Friday October 16: [EYEWITNESS](https://luma.com/eyewitness)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
