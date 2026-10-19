@@ -6,10 +6,11 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Tuesday October 13: [Accidents on Purpose: RULES](https://luma.com/exus1csc)
-Wednesday October 14: [Open House](https://luma.com/stadium213), [ARTIFACTS 02](https://luma.com/b90pgd5l)
-Thursday October 15: [Open House](https://luma.com/stadium214)
-Friday October 16: [EYEWITNESS](https://luma.com/eyewitness)
+Monday October 19: [Accidents on Purpose:PLACES](https://luma.com/7f16gt2v)
+Wednesday October 21: [Open House](https://luma.com/stadium214), [Iterate](https://luma.com/nxycf6nn)
+Thursday October 22: [Open House](https://luma.com/stadium215), [SKIZA](https://luma.com/t9kmziov)
+Friday October 23: [TOMO Meetup](https://www.eventbrite.ca/e/october-tomo-talk-axel-kinnear-tickets-2003511662315)
+Saturday October 24: [COUNTERSITUATION V1](https://luma.com/oy2jh0vg)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
