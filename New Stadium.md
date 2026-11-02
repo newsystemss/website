@@ -6,9 +6,11 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Monday October 26: [Accidents on Purpose: TOOLS](https://luma.com/fba1pzqe)
-Thursday October 29: [Open House](https://luma.com/stadium216), [Creative Coding Show & Tell](https://luma.com/qimccd52)
-Friday October 30: [Material Chess](https://luma.com/materialchess)
+Monday November 2: [Accidents on Purpose: ALGORITHMS](https://luma.com/709fdgjt)
+Wednesday November 4: [Open House](https://luma.com/stadium216), [TYPEFIGHT](https://luma.com/typefight)
+Friday November 6: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
+Saturday November 7: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
+Sunday November 8: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
