@@ -6,11 +6,11 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Monday November 2: [Accidents on Purpose: ALGORITHMS](https://luma.com/709fdgjt)
-Wednesday November 4: [Open House](https://luma.com/stadium216), [TYPEFIGHT](https://luma.com/typefight)
-Friday November 6: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
-Saturday November 7: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
-Sunday November 8: [Estudio Niksen Popup](https://www.instagram.com/estudio.niksen/)
+Monday November 9: [Accidents on Purpose](https://irid.space/course/#accidents-on-purpose-creative-practice-in-an-uncertain-world)
+Wednesday November 11: [Open House](https://luma.com/stadium217)
+Friday November 13: [Open House ](https://luma.com/stadium218)
+Saturday November 14: [Moving as Thinking - Thinking Spatially](https://luma.com/2dncqb7a)
+Sunday November 15: [Moving as Thinking -In The End is Our Beginning ](https://luma.com/v6wfq737)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
