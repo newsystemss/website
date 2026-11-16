@@ -6,11 +6,12 @@ See our opening hours, events, and programming below.
 
 # Weekly Events
 
-Monday November 9: [Accidents on Purpose](https://irid.space/course/#accidents-on-purpose-creative-practice-in-an-uncertain-world)
-Wednesday November 11: [Open House](https://luma.com/stadium217)
-Friday November 13: [Open House ](https://luma.com/stadium218)
-Saturday November 14: [Moving as Thinking - Thinking Spatially](https://luma.com/2dncqb7a)
-Sunday November 15: [Moving as Thinking -In The End is Our Beginning ](https://luma.com/v6wfq737)
+Monday November 16: [Accidents on Purpose](https://irid.space/course/#accidents-on-purpose-creative-practice-in-an-uncertain-world)
+Wednesday November 18: [Don't Quit Your Day Job ](https://luma.com/kv8glgsn)
+Thursday November 19: [Open House](https://luma.com/stadium219)
+Friday November 20: [Search Infrastructure ](https://luma.com/m6yybqs5)
+Saturday November 21: [Human Friends App Launch](https://luma.com/new-g5wr)
+Sunday November 22: [Moving as Thinking ](https://luma.com/dtkfsewp)
 
 To receive updates on our events, see our calendar on [Luma](https://lu.ma/newsystems)
 
